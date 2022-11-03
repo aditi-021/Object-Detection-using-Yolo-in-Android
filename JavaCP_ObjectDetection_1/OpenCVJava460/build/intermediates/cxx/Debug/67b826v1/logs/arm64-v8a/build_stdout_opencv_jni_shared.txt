@@ -1,0 +1,2 @@
+ninja: Entering directory `F:\Users\HP\AndroidStudioProjects\JavaCP_ObjectDetection_1\OpenCVJava460\.cxx\Debug\67b826v1\arm64-v8a'
+ninja: no work to do.

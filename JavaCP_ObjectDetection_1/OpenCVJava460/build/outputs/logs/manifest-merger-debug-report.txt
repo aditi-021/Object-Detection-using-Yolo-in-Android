@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml:2:1-4:12
+INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml:2:1-4:12
+INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml:3:7-27
+		INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+		INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+		ADDED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+		INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+		ADDED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
+		INJECTED from F:\Users\HP\Documents\College\SY-SEM1\Java\JavaCP\Project Repo\Object-Detection-using-Yolo-in-Android\JavaCP_ObjectDetection_1\OpenCVJava460\java\AndroidManifest.xml
